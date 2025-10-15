@@ -11,6 +11,17 @@
 <img width="1400" alt="Screenshot 2025-10-15 110937" src="https://github.com/user-attachments/assets/0d043321-1a81-459c-b0b7-a3bd3ff32ef5" />
 These are screenshots from the game Rainworld by Videocult
 
+Components to make:
+- Shoebox floors with:
+  - Colors: greenish grey, bluish grey, reddish grey, red, and green
+  - Windows: vent style, circle stype, rectangle style
+  - greebles: circle, corner screws
+  - dirt on lower floors
+- Antennae at top
+
+Features to capture:
+- Uneven stacking + overhangs
+
 # Assignment Description
 
 # CIS 5660 HW04 Procedural Buildings
