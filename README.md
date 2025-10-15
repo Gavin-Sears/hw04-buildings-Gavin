@@ -1,3 +1,18 @@
+# Inspiration
+
+<img width="1400" alt="Screenshot 2025-10-15 110837" src="https://github.com/user-attachments/assets/e0f2a00e-8cc2-4d62-a0c9-d89c5f8347ed" />
+
+---
+
+<img width="1400" alt="Screenshot 2025-10-15 110837" src="https://github.com/user-attachments/assets/1fdb088a-d1bc-465f-a8a5-34d8f275e89d" />
+
+---
+
+<img width="1400" alt="Screenshot 2025-10-15 110937" src="https://github.com/user-attachments/assets/0d043321-1a81-459c-b0b7-a3bd3ff32ef5" />
+These are screenshots from the game Rainworld by Videocult
+
+# Assignment Description
+
 # CIS 5660 HW04 Procedural Buildings
 
 ## Project Overview
