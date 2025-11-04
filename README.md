@@ -1,3 +1,5 @@
+LATE DAYS USED: 1
+
 # Inspiration
 
 <img width="1400" alt="Screenshot 2025-10-15 110837" src="https://github.com/user-attachments/assets/e0f2a00e-8cc2-4d62-a0c9-d89c5f8347ed" />
@@ -14,7 +16,7 @@ These are screenshots from the game Rainworld by Videocult
 Components to make:
 - Shoebox floors with:
   - Colors: greenish grey, bluish grey, reddish grey, red, and green
-  - Windows: vent style, circle stype, rectangle style
+  - Windows: vent style, circle style, rectangle style
   - greebles: circle, corner screws
   - dirt on lower floors
 - Antennae at top
